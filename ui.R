@@ -87,7 +87,7 @@ shinyUI(fluidPage(
                               onclick = sprintf("window.open('%s')", "https://www.youtube.com/channel/UCay2P72vJn22IdJ7Mh25ccg")),
                  br(),
                  br(),
-                 p("This app is made with hate for a cute scorpio man  ♥ ฅ(^◕ᴥ◕^)ฅ "
+                 p("This app is made with hate ♥ ฅ(^◕ᴥ◕^)ฅ "
                    ),
         )
     ) #tabsetPanel
